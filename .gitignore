@@ -1,3 +1,4 @@
 /.venv
 /__pycache__
 /patient_data
+/gsea_gene_set
