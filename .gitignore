@@ -2,3 +2,5 @@
 /__pycache__
 /patient_data
 /gsea_gene_set
+data/combined_n30_anal_annotated.rds
+data/combined_n30_anal_annotated_metatdata.csv
