@@ -4,3 +4,6 @@
 /gsea_gene_set
 data/combined_n30_anal_annotated.rds
 data/combined_n30_anal_annotated_metatdata.csv
+.Rproj.user
+/clustree_export_R_proj/.RData
+/clustree_export_R_proj/.Rhistory
