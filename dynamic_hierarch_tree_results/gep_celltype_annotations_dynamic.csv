@@ -1,0 +1,46 @@
+K,GEP,program_id,gep_col,top1_celltype,top_celltypes,celltype_gap
+5,GEP1,K5_GEP1,1,Mixed: T_cells/B_cells/Tumors/Epithelials,"Mixed: T_cells/B_cells/Tumors/Epithelials (95%), T_cells (49%), B_cells (38%), Tumors/Epithelials (9%)",0.1086894990093405
+5,GEP2,K5_GEP2,2,Tumors/Epithelials,"Tumors/Epithelials (89%), B_cells (4%), Fibroblast_stromal (2%)",0.8590433059722615
+5,GEP3,K5_GEP3,3,Tumors/Epithelials,"Tumors/Epithelials (93%), B_cells (2%), Fibroblast_stromal (2%)",0.9057458250778375
+5,GEP4,K5_GEP4,4,Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials,"Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials (90%), Tumors/Epithelials (42%), Fibroblast_stromal (36%), Endothelials (11%)",0.05717520520803848
+5,GEP5,K5_GEP5,5,Mixed: Tumors/Epithelials/B_cells/Myeloid_cells,"Mixed: Tumors/Epithelials/B_cells/Myeloid_cells (77%), Tumors/Epithelials (35%), B_cells (25%), Myeloid_cells (17%)",0.09595244834418343
+6,GEP1,K6_GEP1,1,Mixed: T_cells/B_cells/Tumors/Epithelials,"Mixed: T_cells/B_cells/Tumors/Epithelials (95%), T_cells (49%), B_cells (38%), Tumors/Epithelials (9%)",0.1086894990093405
+6,GEP2,K6_GEP2,2,Tumors/Epithelials,"Tumors/Epithelials (89%), B_cells (4%), Fibroblast_stromal (2%)",0.8505519388621567
+6,GEP3,K6_GEP3,3,Tumors/Epithelials,"Tumors/Epithelials (92%), B_cells (2%), Fibroblast_stromal (2%)",0.8975375035380696
+6,GEP4,K6_GEP4,4,Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials,"Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials (90%), Tumors/Epithelials (42%), Fibroblast_stromal (36%), Endothelials (11%)",0.0574582507783753
+6,GEP5,K6_GEP5,5,Mixed: Tumors/Epithelials/B_cells/Myeloid_cells,"Mixed: Tumors/Epithelials/B_cells/Myeloid_cells (77%), Tumors/Epithelials (35%), B_cells (26%), Myeloid_cells (17%)",0.08915935465609964
+6,GEP6,K6_GEP6,6,Mixed: Tumors/Epithelials/B_cells/T_cells,"Mixed: Tumors/Epithelials/B_cells/T_cells (79%), Tumors/Epithelials (41%), B_cells (24%), T_cells (14%)",0.16643079535805264
+7,GEP1,K7_GEP1,1,Tumors/Epithelials,"Tumors/Epithelials (89%), B_cells (4%), Fibroblast_stromal (3%)",0.845457118596094
+7,GEP2,K7_GEP2,2,Mixed: T_cells/B_cells/Tumors/Epithelials,"Mixed: T_cells/B_cells/Tumors/Epithelials (93%), T_cells (52%), B_cells (28%), Tumors/Epithelials (13%)",0.2388904613642796
+7,GEP3,K7_GEP3,3,Tumors/Epithelials,"Tumors/Epithelials (92%), B_cells (2%), Fibroblast_stromal (2%)",0.8975375035380696
+7,GEP4,K7_GEP4,4,B_cells,"B_cells (75%), Tumors/Epithelials (14%), Fibroblast_stromal (3%)",0.61675629776394
+7,GEP5,K7_GEP5,5,Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials,"Mixed: Tumors/Epithelials/Fibroblast_stromal/Endothelials (89%), Tumors/Epithelials (42%), Fibroblast_stromal (36%), Endothelials (11%)",0.053495612793659775
+7,GEP6,K7_GEP6,6,Mixed: Tumors/Epithelials/B_cells/Myeloid_cells,"Mixed: Tumors/Epithelials/B_cells/Myeloid_cells (79%), Tumors/Epithelials (35%), B_cells (27%), Myeloid_cells (17%)",0.08378148881969999
+7,GEP7,K7_GEP7,7,Tumors/Epithelials,"Tumors/Epithelials (67%), B_cells (8%), Fibroblast_stromal (7%)",0.5926974242853099
+8,GEP1,K8_GEP1,1,Tumors/Epithelials,"Tumors/Epithelials (89%), B_cells (4%), Fibroblast_stromal (3%)",0.8468723464477781
+8,GEP2,K8_GEP2,2,Mixed: T_cells/B_cells/Tumors/Epithelials,"Mixed: T_cells/B_cells/Tumors/Epithelials (93%), T_cells (52%), B_cells (28%), Tumors/Epithelials (13%)",0.23719218794225866
+8,GEP3,K8_GEP3,3,Tumors/Epithelials,"Tumors/Epithelials (92%), B_cells (2%), Fibroblast_stromal (2%)",0.8992357769600905
+8,GEP4,K8_GEP4,4,B_cells,"B_cells (76%), Tumors/Epithelials (14%), Fibroblast_stromal (4%)",0.61675629776394
+8,GEP5,K8_GEP5,5,Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells,"Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells (89%), Tumors/Epithelials (46%), Fibroblast_stromal (37%), B_cells (6%)",0.09368808378148885
+8,GEP6,K8_GEP6,6,Mixed: Tumors/Epithelials/B_cells/Myeloid_cells,"Mixed: Tumors/Epithelials/B_cells/Myeloid_cells (81%), Tumors/Epithelials (35%), B_cells (28%), Myeloid_cells (17%)",0.07019530144353242
+8,GEP7,K8_GEP7,7,Tumors/Epithelials,"Tumors/Epithelials (52%), Fibroblast_stromal (16%), Endothelials (12%)",0.35409000849136707
+8,GEP8,K8_GEP8,8,Tumors/Epithelials,"Tumors/Epithelials (68%), B_cells (9%), Fibroblast_stromal (8%)",0.5994905179733937
+9,GEP1,K9_GEP1,1,Tumors/Epithelials,"Tumors/Epithelials (89%), B_cells (4%), Fibroblast_stromal (3%)",0.8488536654401359
+9,GEP2,K9_GEP2,2,T_cells,"T_cells (53%), Tumors/Epithelials (24%), B_cells (10%)",0.294650438720634
+9,GEP3,K9_GEP3,3,Tumors/Epithelials,"Tumors/Epithelials (92%), B_cells (2%), Fibroblast_stromal (2%)",0.8983866402490801
+9,GEP4,K9_GEP4,4,Mixed: B_cells/Tumors/Epithelials/Fibroblast_stromal,"Mixed: B_cells/Tumors/Epithelials/Fibroblast_stromal (90%), B_cells (52%), Tumors/Epithelials (31%), Fibroblast_stromal (6%)",0.2176620435890178
+9,GEP5,K9_GEP5,5,Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells,"Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells (89%), Tumors/Epithelials (46%), Fibroblast_stromal (37%), B_cells (6%)",0.09227285592980472
+9,GEP6,K9_GEP6,6,Mixed: Tumors/Epithelials/B_cells/Fibroblast_stromal,"Mixed: Tumors/Epithelials/B_cells/Fibroblast_stromal (91%), Tumors/Epithelials (41%), B_cells (41%), Fibroblast_stromal (9%)",0.0005660911406736857
+9,GEP7,K9_GEP7,7,Tumors/Epithelials,"Tumors/Epithelials (47%), Myeloid_cells (17%), Fibroblast_stromal (12%)",0.3025757146900651
+9,GEP8,K9_GEP8,8,Tumors/Epithelials,"Tumors/Epithelials (52%), Fibroblast_stromal (17%), Endothelials (12%)",0.35125955278799886
+9,GEP9,K9_GEP9,9,Tumors/Epithelials,"Tumors/Epithelials (68%), B_cells (9%), Fibroblast_stromal (8%)",0.5856212850268894
+10,GEP1,K10_GEP1,1,Tumors/Epithelials,"Tumors/Epithelials (85%), B_cells (5%), Fibroblast_stromal (4%)",0.7979054627795075
+10,GEP2,K10_GEP2,2,Tumors/Epithelials,"Tumors/Epithelials (92%), B_cells (2%), Fibroblast_stromal (2%)",0.896971412397396
+10,GEP3,K10_GEP3,3,T_cells,"T_cells (53%), Tumors/Epithelials (24%), B_cells (10%)",0.2912538918765921
+10,GEP4,K10_GEP4,4,B_cells,"B_cells (51%), Tumors/Epithelials (23%), T_cells (10%)",0.27285592980469864
+10,GEP5,K10_GEP5,5,Mixed: B_cells/Tumors/Epithelials/T_cells,"Mixed: B_cells/Tumors/Epithelials/T_cells (87%), B_cells (49%), Tumors/Epithelials (31%), T_cells (7%)",0.1814322105859043
+10,GEP6,K10_GEP6,6,Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells,"Mixed: Tumors/Epithelials/Fibroblast_stromal/B_cells (89%), Tumors/Epithelials (45%), Fibroblast_stromal (37%), B_cells (7%)",0.0840645343900368
+10,GEP7,K10_GEP7,7,Tumors/Epithelials,"Tumors/Epithelials (81%), Fibroblast_stromal (7%), B_cells (5%)",0.7421454854231531
+10,GEP8,K10_GEP8,8,Tumors/Epithelials,"Tumors/Epithelials (45%), Myeloid_cells (17%), Fibroblast_stromal (12%)",0.27851684121143505
+10,GEP9,K10_GEP9,9,Tumors/Epithelials,"Tumors/Epithelials (51%), Fibroblast_stromal (17%), Endothelials (12%)",0.3416360033965469
+10,GEP10,K10_GEP10,10,Tumors/Epithelials,"Tumors/Epithelials (66%), B_cells (10%), Fibroblast_stromal (8%)",0.5601471836965751
