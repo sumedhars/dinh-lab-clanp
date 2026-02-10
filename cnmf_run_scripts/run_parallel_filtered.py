@@ -49,13 +49,25 @@ def filter_to_common_genes(counts_file, common_genes_file, output_dir, name):
     adata_filtered = adata[:, common_genes_in_dataset].copy()
     print(f"Filtered dataset shape: {adata_filtered.shape}")
     
+    # FIX: Reset the index name to None to prevent '_index' from being created
+    adata_filtered.var.index.name = None
+    adata_filtered.obs.index.name = None
+    
+    # Also reset the index itself to ensure it's clean
+    adata_filtered.var_names = adata_filtered.var_names.astype(str)
+    adata_filtered.obs_names = adata_filtered.obs_names.astype(str)
+    
+    print(f"Final var columns: {list(adata_filtered.var.columns)}")
+    print(f"Final obs columns: {list(adata_filtered.obs.columns)}")
+    print(f"Completing processing dataset: {name}")
+    
     # Create output directory for filtered data
     filtered_dir = os.path.join(output_dir, name, 'filtered_data')
     os.makedirs(filtered_dir, exist_ok=True)
     
     # Save filtered dataset
     filtered_file = os.path.join(filtered_dir, f"{name}_filtered.h5ad")
-    adata_filtered.write(filtered_file)
+    adata_filtered.write_h5ad(filtered_file)
     print(f"Saved filtered dataset to: {filtered_file}")
     print("=" * 60)
     
