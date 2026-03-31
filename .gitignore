@@ -8,3 +8,10 @@ data/combined_n30_anal_annotated_metatdata.csv
 /clustree_export_R_proj/.RData
 /clustree_export_R_proj/.Rhistory
 /n30_rda_files
+data/hnc_myeloid_2021.rda
+data/hnc_myeloid_2021.h5seurat
+data/hnc_myeloid_2021.h5ad
+rda_conversion/.Rproj.user
+rda_conversion/rda_conversion.Rproj
+rda_conversion/*.csv
+rda_conversion/matrix.mtx
