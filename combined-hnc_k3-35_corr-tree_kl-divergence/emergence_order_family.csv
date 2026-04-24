@@ -1,4 +1,4 @@
 family_label,first_K,last_K,K_span,n_K_present
-DC_family,6,35,30,25
-Macrophage_family,6,35,30,13
-Monocyte_family,20,35,16,5
+DC_family,6,35,30,29
+Macrophage_family,6,35,30,26
+Monocyte_family,10,35,26,10
