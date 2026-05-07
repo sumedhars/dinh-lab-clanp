@@ -1,0 +1,4 @@
+GEP,n_samples,median_ROGUE,mean_ROGUE,min_ROGUE,max_ROGUE,total_cells
+1,56,0.754,0.754,0.623,0.855,18670
+2,27,0.51,0.534,0.391,0.841,6412
+3,30,0.844,0.834,0.601,0.973,1048
