@@ -1,0 +1,18 @@
+celltype,best_GEP_ROGUE,best_median_ROGUE,max_n_GEPs,K_at_best,label_ROGUE,emerges_at_K,best_consecutive_persistence,top_merge_partner,top_merge_partner_R,recommendation
+DC_pDC,1.0,0.893,5.0,29.0,0.903,6.0,,Mast,0.776,Already pure but transient — verify
+Mono_CD16,0.99,0.892,1.0,12.0,0.909,10.0,,Mono_Int,0.751,Already pure but transient — verify
+Mono_CD14_THBS1,0.971,0.916,1.0,22.0,0.95,,,Mono_CD14_ID1,0.93,Already pure but transient — verify
+Mono_CD14_ID1,0.934,0.858,1.0,10.0,0.887,7.0,,Mono_CD14_THBS1,0.93,Borderline — minimal benefit from splitting
+Mast,0.965,0.925,2.0,5.0,0.896,5.0,,DC_pDC,0.776,Modest gains from splitting
+cDC2_CD33,0.939,0.767,1.0,22.0,0.871,20.0,,Mono_Int,0.768,Modest gains from splitting
+Mac_IL1Bint,0.787,0.787,1.0,20.0,0.683,,,Mac_CXCL9,0.92,Modest gains from splitting
+Mono_CD14,,,,,0.918,,,Mono_CD14_THBS1,0.649,Never resolved by cNMF — investigate why
+Mono_CD14_IL1B,,,,,0.923,,,Mono_CD14_THBS1,0.929,Never resolved — likely redundant with Mono_CD14_THBS1 (R=0.93)
+Mono_Int,,,,,0.916,,,cDC2_CD33,0.768,Never resolved — likely redundant with cDC2_CD33 (R=0.77)
+cDC2_CD1C,1.0,0.897,5.0,29.0,0.641,,,cDC1_CLEC9A,0.855,Splitting recovers substructure but transient — verify
+mregDC_LAMP3,0.984,0.843,2.0,25.0,0.753,,,cDC2_CD1C,0.789,Splitting recovers substructure but transient — verify
+cDC1_CLEC9A,0.979,0.875,2.0,27.0,0.815,,,cDC2_CD1C,0.855,Splitting recovers substructure but transient — verify
+Mono_TIL,0.979,0.852,1.0,25.0,0.763,,,Mac_IL1B,0.766,Splitting recovers substructure but transient — verify
+Mac_IL1B,0.909,0.776,3.0,19.0,0.748,25.0,,Mono_TIL,0.766,Splitting recovers substructure but transient — verify
+Mac_SPP1,0.905,0.886,4.0,25.0,0.626,19.0,,Mac_CXCL9,0.784,Splitting recovers substructure but transient — verify
+Mac_CXCL9,0.904,0.774,3.0,9.0,0.721,,,Mac_IL1Bint,0.92,Splitting recovers substructure but transient — verify

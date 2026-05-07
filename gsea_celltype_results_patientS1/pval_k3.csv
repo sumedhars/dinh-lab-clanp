@@ -1,4 +1,0 @@
-GEP,Bcells_CD19,CD4+Tcells,CD8+Tcells,CD8+Tcells_Ki67,DC_CD207,DC_CLEC9A,DC_LAMP3,Endothelials,Fibroblasts/Stromal,Mac_C1Q_SPP1,Mac_C1Q_ZEB2,Mast,Mon_VCAN,NKcells,Plasma_XBP1,Tregs,Tumor/Epithelials
-1,1.0,1.0,1.0,0.935,1.0,1.0,0.995,0.0,0.0,1.0,1.0,0.999,1.0,1.0,1.0,1.0,0.0
-2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
-3,1.0,1.0,1.0,1.0,1.0,1.0,0.995,1.0,1.0,1.0,1.0,0.999,1.0,1.0,1.0,1.0,0.0
