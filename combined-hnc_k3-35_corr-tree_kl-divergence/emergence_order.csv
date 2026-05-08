@@ -1,8 +1,0 @@
-celltype,first_K,last_K,K_span,n_K_present
-Mast,5,35,31,25
-DC_pDC,6,35,30,21
-Mono_CD14_ID1,7,15,9,4
-Mono_CD16,10,24,15,9
-Mac_SPP1,19,31,13,4
-cDC2_CD33,20,23,4,4
-Mac_IL1B,25,34,10,2
