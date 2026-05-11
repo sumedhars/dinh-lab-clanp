@@ -1,0 +1,15 @@
+celltype,K_at_best,GEP_at_best,label_ROGUE,best_GEP_ROGUE,recommendation,n_universe,n_label,n_gep,n_intersection,n_label_only,n_gep_only,jaccard,label_recall_in_gep,gep_precision_for_label
+Mono_CD16,23,3,0.909,0.892,cNMF splitting does not improve label,26444,2503,3707,2472,31,1235,0.661,0.988,0.667
+Mono_TIL,19,6,0.763,0.852,Modest gains from splitting,26444,988,710,402,586,308,0.31,0.407,0.566
+Mast,30,7,0.896,0.947,Modest gains from splitting,26444,313,73,70,243,3,0.222,0.224,0.959
+Mono_CD14_THBS1,23,1,0.95,0.916,cNMF splitting does not improve label,26444,1783,8781,1493,290,7288,0.165,0.837,0.17
+Mac_CXCL9,19,4,0.721,0.781,Modest gains from splitting,26444,1225,6246,891,334,5355,0.135,0.727,0.143
+cDC2_CD33,21,1,0.871,0.767,cNMF splitting does not improve label,26444,1319,10132,1253,66,8879,0.123,0.95,0.124
+mregDC_LAMP3,25,6,0.753,0.85,Modest gains from splitting,26444,482,2221,289,193,1932,0.12,0.6,0.13
+Mono_CD14_ID1,12,1,0.887,0.858,cNMF splitting does not improve label,26444,1154,12641,1121,33,11520,0.088,0.971,0.089
+Mac_IL1Bint,20,12,0.683,0.787,Modest gains from splitting,26444,1842,188,133,1709,55,0.07,0.072,0.707
+Mac_SPP1,35,14,0.626,0.904,Splitting recovers substructure & persistent — keep going,26444,573,93,37,536,56,0.059,0.065,0.398
+Mac_IL1B,35,12,0.748,0.795,Borderline — minimal benefit from splitting,26444,774,195,27,747,168,0.029,0.035,0.138
+DC_pDC,34,15,0.903,0.964,Already pure & persistent,26444,1218,384,42,1176,342,0.027,0.034,0.109
+cDC1_CLEC9A,27,11,0.815,0.913,Modest gains from splitting,26444,301,784,1,300,783,0.001,0.003,0.001
+cDC2_CD1C,27,19,0.641,0.975,Splitting recovers substructure & persistent — keep going,26444,966,204,1,965,203,0.001,0.001,0.005
