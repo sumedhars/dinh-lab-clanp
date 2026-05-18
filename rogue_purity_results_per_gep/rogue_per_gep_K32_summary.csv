@@ -1,0 +1,7 @@
+gep,n_samples,median_ROGUE,mean_ROGUE,min_ROGUE,max_ROGUE,total_cells,label,label_kind
+1,63,0.845,0.799,0.543,0.952,25688,DC_pDC,specific
+16,1,0.907,0.907,0.907,0.907,21,Ambiguous/Mixed,ambiguous
+18,1,0.953,0.953,0.953,0.953,17,Ambiguous/Mixed,ambiguous
+19,1,0.975,0.975,0.975,0.975,17,Ambiguous/Mixed,ambiguous
+6,2,0.906,0.906,0.879,0.932,43,Ambiguous/Mixed,ambiguous
+8,4,0.96,0.957,0.924,0.983,91,Ambiguous/Mixed,ambiguous

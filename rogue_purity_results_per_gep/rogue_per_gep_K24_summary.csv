@@ -1,0 +1,11 @@
+gep,n_samples,median_ROGUE,mean_ROGUE,min_ROGUE,max_ROGUE,total_cells,label,label_kind
+1,59,0.866,0.837,0.595,0.952,19968,Mono_CD16,specific
+10,7,0.95,0.936,0.856,0.984,195,Ambiguous/Mixed,ambiguous
+16,1,0.959,0.959,0.959,0.959,20,Ambiguous/Mixed,ambiguous
+2,23,0.74,0.737,0.57,0.883,3017,Ambiguous/Mixed,ambiguous
+3,9,0.741,0.782,0.696,0.889,326,Ambiguous/Mixed,ambiguous
+4,28,0.947,0.931,0.843,0.99,934,DC_pDC,specific
+5,7,0.826,0.831,0.734,0.942,402,Ambiguous/Mixed,ambiguous
+6,5,0.868,0.884,0.832,0.944,203,Ambiguous/Mixed,ambiguous
+7,8,0.911,0.899,0.839,0.962,217,DC_family,family
+8,5,0.834,0.807,0.672,0.863,127,DC_family,family

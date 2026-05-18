@@ -1,0 +1,13 @@
+gep,n_samples,median_ROGUE,mean_ROGUE,min_ROGUE,max_ROGUE,total_cells,label,label_kind
+1,56,0.872,0.859,0.675,0.963,15238,Mono_CD14_ID1,specific
+10,7,0.95,0.942,0.849,0.984,194,Mast,specific
+11,7,0.868,0.862,0.737,0.935,268,Ambiguous/Mixed,ambiguous
+12,1,0.941,0.941,0.941,0.941,15,Ambiguous/Mixed,ambiguous
+2,51,0.892,0.873,0.699,0.967,5007,Mono_CD16,specific
+3,20,0.799,0.807,0.662,0.93,1494,Ambiguous/Mixed,ambiguous
+4,29,0.934,0.919,0.805,0.99,961,DC_pDC,specific
+5,11,0.849,0.835,0.715,0.915,652,Ambiguous/Mixed,ambiguous
+6,5,0.858,0.853,0.737,0.944,300,Ambiguous/Mixed,ambiguous
+7,10,0.758,0.761,0.635,0.881,814,Macrophage_family,family
+8,8,0.907,0.896,0.809,0.959,213,DC_family,family
+9,7,0.766,0.805,0.755,0.918,208,DC_family,family
