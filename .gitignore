@@ -15,3 +15,7 @@ rda_conversion/.Rproj.user
 rda_conversion/rda_conversion.Rproj
 rda_conversion/*.csv
 rda_conversion/matrix.mtx
+
+# eventually change
+5_celltype_vs_gep_post_rogue.ipynb
+celltype_label_vs_gep_comparison/
