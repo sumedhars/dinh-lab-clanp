@@ -1,0 +1,46 @@
+celltype,label_kind,K_at_best,GEP_at_best,label_ROGUE,best_GEP_ROGUE,intersection_ROGUE_mean,n_intersection_scored,n_samples_scored,pure_vs_threshold,pure_vs_baseline
+Mono_CD14+Mono_CD14_THBS1,subgroup,35,5,0.98,0.99,0.988,1219,21,PURE,purer than original label
+Mono_CD14+Mono_CD14_ID1,subgroup,21,2,0.96,0.967,0.981,5698,37,PURE,purer than original label
+Mono_CD14+Mono_TIL,subgroup,23,1,0.916,0.929,0.978,5645,40,PURE,purer than original label
+Mono_CD14+Mono_Int,subgroup,25,6,0.973,0.97,0.974,1034,20,PURE,purer than original label
+Mono_CD14+Mono_CD16,subgroup,29,3,0.97,0.96,0.973,912,19,PURE,purer than original label
+Mono_CD14_ID1+Mono_CD14_IL1B,subgroup,31,5,0.952,0.963,0.973,442,8,PURE,purer than original label
+Mono_CD14+Mono_CD14_IL1B,subgroup,20,1,0.969,0.986,0.973,6427,45,PURE,purer than original label
+Mono_CD14+Mono_CD14_ID1+Mono_CD14_IL1B,subgroup,21,2,0.962,0.968,0.973,6660,45,PURE,purer than original label
+Mono_CD14_IL1B+Mono_TIL,subgroup,23,1,0.908,0.875,0.965,1204,23,PURE,purer than original label
+Mono_CD14+Mono_CD14_IL1B+Mono_Int,subgroup,23,2,0.97,0.921,0.964,3120,33,PURE,not purer than original label
+Mono_CD14_ID1+Mono_CD16,subgroup,25,6,0.954,0.931,0.963,548,14,PURE,purer than original label
+Mono_CD14+Mono_CD14_IL1B+Mono_CD16,subgroup,25,6,0.964,0.911,0.962,1363,28,PURE,not purer than original label
+Monocyte_family,family,22,1,0.912,0.991,0.962,8781,50,PURE,purer than original label
+Mono_CD16+Mono_Int,subgroup,23,3,0.967,0.979,0.961,3448,35,PURE,not purer than original label
+Mono_CD16,specific,12,2,0.964,1.0,0.96,2494,33,PURE,not purer than original label
+Mono_CD14_IL1B+Mono_Int,subgroup,26,4,0.966,0.929,0.958,1262,27,PURE,not purer than original label
+Mono_CD14_THBS1+Mono_CD16,subgroup,21,1,0.974,0.927,0.957,2737,33,PURE,not purer than original label
+Mono_CD14+Mono_CD16+Mono_Int,subgroup,15,2,0.97,0.967,0.954,3998,37,PURE,not purer than original label
+Mono_CD14_ID1+Mono_CD14_IL1B+Mono_CD16,subgroup,19,1,0.962,0.919,0.954,1601,28,PURE,not purer than original label
+Mono_CD14_THBS1+Mono_CD16+Mono_Int,subgroup,14,2,0.97,0.922,0.953,4111,37,PURE,not purer than original label
+Mono_CD14+Mono_CD14_THBS1+Mono_CD16,subgroup,29,2,0.976,0.96,0.951,1997,28,PURE,not purer than original label
+Mono_CD14_IL1B+Mono_CD16+Mono_Int,subgroup,14,2,0.964,0.904,0.95,4159,37,PURE,not purer than original label
+Mono_CD14_IL1B+Mono_CD16,subgroup,21,1,0.963,0.895,0.948,3132,37,PURE,not purer than original label
+Mast,specific,5,5,0.95,0.984,0.943,312,7,PURE,not purer than original label
+Mono_CD14_ID1,specific,15,1,0.943,0.961,0.937,1150,5,PURE,not purer than original label
+DC_pDC,specific,25,4,0.944,1.0,0.93,549,10,PURE,not purer than original label
+cDC2_CD33,specific,22,2,0.934,0.978,0.929,1247,34,PURE,not purer than original label
+cDC2_CD1C+cDC2_CD33,subgroup,21,1,0.863,0.859,0.92,1503,40,PURE,purer than original label
+Mac_IL1B+Mac_IL1Bint,subgroup,24,6,0.813,0.868,0.902,213,3,PURE,purer than original label
+cDC2_CD1C+cDC2_CD33+mregDC_LAMP3,subgroup,31,3,0.873,0.702,0.871,1822,42,PURE,not purer than original label
+cDC1_CLEC9A+cDC2_CD1C+cDC2_CD33,subgroup,14,3,0.909,0.724,0.841,1455,29,PURE,not purer than original label
+Macrophage_family,family,21,3,0.712,0.967,0.831,1548,15,PURE,purer than original label
+Mac_IL1B,specific,34,3,0.831,0.932,0.831,740,10,PURE,not purer than original label
+Mac_CXCL9+Mac_IL1Bint,subgroup,23,4,0.809,0.857,0.827,1551,15,PURE,purer than original label
+Mac_CXCL9+Mac_IL1B,subgroup,18,6,0.828,0.73,0.824,230,5,PURE,not purer than original label
+cDC2_CD1C+mregDC_LAMP3,subgroup,15,9,0.832,0.755,0.816,313,7,PURE,not purer than original label
+Mac_CXCL9+Mac_IL1Bint+Mac_SPP1,subgroup,15,3,0.808,0.795,0.797,1314,15,PURE,not purer than original label
+Mac_SPP1,specific,19,1,0.808,0.966,0.796,494,6,PURE,not purer than original label
+Mac_IL1Bint+Mac_SPP1,subgroup,10,8,0.801,0.733,0.792,692,8,PURE,not purer than original label
+Mac_CXCL9+Mac_SPP1,subgroup,7,3,0.816,0.795,0.787,1605,15,PURE,not purer than original label
+DC_family,family,29,3,0.899,1.0,0.787,851,15,PURE,not purer than original label
+Mac_IL1B+Mac_SPP1,subgroup,31,4,0.82,0.733,0.786,367,5,PURE,not purer than original label
+cDC1_CLEC9A+cDC2_CD1C,subgroup,7,2,0.85,0.829,0.783,1057,19,PURE,not purer than original label
+cDC1_CLEC9A+cDC2_CD1C+mregDC_LAMP3,subgroup,6,2,0.873,0.689,0.742,1673,24,PURE,not purer than original label
+Mac_CXCL9+Mac_IL1B+Mac_IL1Bint,subgroup,18,1,0.824,0.686,0.734,3552,23,PURE,not purer than original label
