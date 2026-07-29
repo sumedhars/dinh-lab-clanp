@@ -1,0 +1,4 @@
+family_pair,n_pairs,median_between_R,mean_between_R,min_between_R,max_between_R
+DC ↔ Macrophage,16,0.665,0.354,-0.931,0.961
+DC ↔ Monocyte,28,-0.367,-0.244,-0.954,0.853
+Macrophage ↔ Monocyte,28,-0.446,-0.335,-0.949,0.773

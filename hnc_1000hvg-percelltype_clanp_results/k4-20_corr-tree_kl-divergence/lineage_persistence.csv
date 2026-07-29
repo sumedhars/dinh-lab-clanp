@@ -1,0 +1,6 @@
+lineage_id,n_nodes,k_min,k_max,k_span,consecutive_span,dominant_celltype,celltype_purity
+2,171,4,20,17,17,Ambiguous/Mixed,0.561
+3,17,4,20,17,17,Ambiguous/Mixed,0.529
+0,12,4,15,12,12,Ambiguous/Mixed,0.5
+1,2,4,5,2,2,Macrophage_family,1.0
+4,2,17,18,2,2,Mono_CD14_ID1,1.0

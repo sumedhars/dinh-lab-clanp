@@ -1,0 +1,137 @@
+celltype_A,celltype_B,median_R_across_K,family_A,family_B,pair_type,family_pair
+DC_pDC,mregDC_LAMP3,0.9721680381688351,,DC,unassigned,
+Mast,mregDC_LAMP3,0.9638163739752982,,DC,unassigned,
+Mac_CXCL9,mregDC_LAMP3,0.9606101570997597,Macrophage,DC,between,DC ↔ Macrophage
+Mono_CD14_ID1,Mono_CD14_THBS1,0.9587010662225661,Monocyte,Monocyte,within,Monocyte
+cDC2_CD1C,mregDC_LAMP3,0.9552592793751734,DC,DC,within,DC
+DC_pDC,Mast,0.9523008284973566,,,unassigned,
+Mac_CXCL9,Mast,0.9495676746325109,Macrophage,,unassigned,
+Mono_CD14_IL1B,Mono_CD14_THBS1,0.9495223439976355,Monocyte,Monocyte,within,Monocyte
+DC_pDC,Mac_CXCL9,0.9330919692845329,,Macrophage,unassigned,
+cDC1_CLEC9A,mregDC_LAMP3,0.9248513592575122,DC,DC,within,DC
+cDC1_CLEC9A,cDC2_CD1C,0.9222490132148887,DC,DC,within,DC
+Mac_CXCL9,Mac_IL1Bint,0.9174362809526664,Macrophage,Macrophage,within,Macrophage
+Mac_CXCL9,cDC2_CD1C,0.9159561456378736,Macrophage,DC,between,DC ↔ Macrophage
+DC_pDC,cDC1_CLEC9A,0.9083401250661046,,DC,unassigned,
+Mac_IL1B,Mac_IL1Bint,0.9080488574432294,Macrophage,Macrophage,within,Macrophage
+Mono_CD14_ID1,Mono_CD14_IL1B,0.9073972396369385,Monocyte,Monocyte,within,Monocyte
+DC_pDC,cDC2_CD1C,0.8921079498374295,,DC,unassigned,
+Mast,cDC2_CD1C,0.8894167694127554,,DC,unassigned,
+Mac_IL1B,mregDC_LAMP3,0.8850596584717464,Macrophage,DC,between,DC ↔ Macrophage
+Mono_CD16,Mono_Int,0.8822336933470322,Monocyte,Monocyte,within,Monocyte
+Mast,cDC1_CLEC9A,0.8756778664636281,,DC,unassigned,
+Mac_IL1Bint,Mac_SPP1,0.8589420869023136,Macrophage,Macrophage,within,Macrophage
+Mono_CD14_ID1,cDC2_CD33,0.853110210009503,Monocyte,DC,between,DC ↔ Monocyte
+Mac_CXCL9,Mac_SPP1,0.8456238735647744,Macrophage,Macrophage,within,Macrophage
+Mac_CXCL9,Mac_IL1B,0.8328833463901133,Macrophage,Macrophage,within,Macrophage
+Mono_CD14,Mono_CD14_IL1B,0.8275275638217549,Monocyte,Monocyte,within,Monocyte
+Mono_CD14,Mono_CD14_THBS1,0.818660548953215,Monocyte,Monocyte,within,Monocyte
+Mac_IL1B,Mast,0.8108790624841574,Macrophage,,unassigned,
+Mac_CXCL9,cDC1_CLEC9A,0.7950184577742739,Macrophage,DC,between,DC ↔ Macrophage
+Mac_IL1Bint,cDC2_CD1C,0.7864298785889838,Macrophage,DC,between,DC ↔ Macrophage
+Mac_IL1B,Mono_TIL,0.7730141664062831,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+DC_pDC,Mac_IL1B,0.7719001031219299,,Macrophage,unassigned,
+Mono_CD14_THBS1,cDC2_CD33,0.7494252305173628,Monocyte,DC,between,DC ↔ Monocyte
+Mac_IL1Bint,Mono_TIL,0.7459052197511733,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,Mac_SPP1,0.7186673849473236,Macrophage,Macrophage,within,Macrophage
+Mono_CD14_IL1B,cDC2_CD33,0.7174669031059189,Monocyte,DC,between,DC ↔ Monocyte
+Mac_SPP1,cDC2_CD1C,0.7165231993023243,Macrophage,DC,between,DC ↔ Macrophage
+Mac_IL1Bint,Mast,0.7059954041523526,Macrophage,,unassigned,
+Mac_IL1Bint,mregDC_LAMP3,0.7017919835951535,Macrophage,DC,between,DC ↔ Macrophage
+Mac_IL1B,cDC2_CD1C,0.6877226597101181,Macrophage,DC,between,DC ↔ Macrophage
+Mac_SPP1,Mast,0.6662712577851205,Macrophage,,unassigned,
+Mac_SPP1,mregDC_LAMP3,0.6416015095247469,Macrophage,DC,between,DC ↔ Macrophage
+DC_pDC,Mac_IL1Bint,0.6307632842191501,,Macrophage,unassigned,
+Mono_CD14,Mono_CD14_ID1,0.6261194715189665,Monocyte,Monocyte,within,Monocyte
+Mac_IL1Bint,cDC1_CLEC9A,0.6122999221040094,Macrophage,DC,between,DC ↔ Macrophage
+Mac_IL1B,cDC1_CLEC9A,0.5967960043961458,Macrophage,DC,between,DC ↔ Macrophage
+DC_pDC,Mac_SPP1,0.5936498759079827,,Macrophage,unassigned,
+Mac_SPP1,cDC1_CLEC9A,0.5771851561345932,Macrophage,DC,between,DC ↔ Macrophage
+Mono_CD14,cDC2_CD33,0.5380002879174173,Monocyte,DC,between,DC ↔ Monocyte
+Mac_CXCL9,Mono_TIL,0.5218331601475914,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_TIL,cDC2_CD1C,0.5001378138866771,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_THBS1,Mono_Int,0.48807120065037596,Monocyte,Monocyte,within,Monocyte
+Mac_SPP1,Mono_TIL,0.43491705671549086,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14_ID1,Mono_Int,0.4206058628507381,Monocyte,Monocyte,within,Monocyte
+Mono_TIL,mregDC_LAMP3,0.3890778810078019,Monocyte,DC,between,DC ↔ Monocyte
+Mast,Mono_TIL,0.37171398549558204,,Monocyte,unassigned,
+Mono_CD14_IL1B,Mono_Int,0.3247526697564787,Monocyte,Monocyte,within,Monocyte
+DC_pDC,Mono_TIL,0.3165547684352213,,Monocyte,unassigned,
+Mono_TIL,cDC1_CLEC9A,0.3018341168172182,Monocyte,DC,between,DC ↔ Monocyte
+Mono_Int,cDC2_CD33,0.2891466924349154,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14,Mono_Int,0.2731489187354021,Monocyte,Monocyte,within,Monocyte
+Mono_CD14_THBS1,Mono_CD16,0.26699534880113757,Monocyte,Monocyte,within,Monocyte
+Mast,Mono_CD16,0.11226763838944596,,Monocyte,unassigned,
+Mono_CD14_IL1B,Mono_CD16,0.08066921208095977,Monocyte,Monocyte,within,Monocyte
+Mono_CD14_ID1,Mono_CD16,0.021393819453154096,Monocyte,Monocyte,within,Monocyte
+Mono_CD16,cDC2_CD33,-0.004410737575626742,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD16,cDC1_CLEC9A,-0.0076608140700975816,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD16,Mono_TIL,-0.022911311199668275,Monocyte,Monocyte,within,Monocyte
+Mac_IL1B,Mono_CD16,-0.037160942956500104,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mast,Mono_Int,-0.03858605222616719,,Monocyte,unassigned,
+Mono_CD14_IL1B,Mono_TIL,-0.06222035350050522,Monocyte,Monocyte,within,Monocyte
+Mono_Int,cDC1_CLEC9A,-0.1470061605504228,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_THBS1,Mono_TIL,-0.17043905690937555,Monocyte,Monocyte,within,Monocyte
+DC_pDC,Mono_CD16,-0.17920667718945146,,Monocyte,unassigned,
+Mono_CD16,mregDC_LAMP3,-0.18780810167536,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_ID1,Mono_TIL,-0.2202111900379025,Monocyte,Monocyte,within,Monocyte
+Mono_CD16,cDC2_CD1C,-0.2493717967045172,Monocyte,DC,between,DC ↔ Monocyte
+Mac_CXCL9,Mono_CD16,-0.2682343042054283,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14,Mono_TIL,-0.2707428571927172,Monocyte,Monocyte,within,Monocyte
+Mono_CD14,Mono_CD16,-0.29751955674004776,Monocyte,Monocyte,within,Monocyte
+Mac_CXCL9,Mono_Int,-0.3084859072550429,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_Int,Mono_TIL,-0.3093949746385356,Monocyte,Monocyte,within,Monocyte
+Mac_IL1B,Mono_CD14_IL1B,-0.33628295717404505,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1Bint,Mono_CD16,-0.3513924190234555,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_SPP1,Mono_Int,-0.3554212058040286,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_Int,cDC2_CD1C,-0.3565329775507418,Monocyte,DC,between,DC ↔ Monocyte
+Mac_IL1Bint,Mono_Int,-0.3656869665597518,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+DC_pDC,Mono_Int,-0.3703354829732411,,Monocyte,unassigned,
+Mac_SPP1,Mono_CD14,-0.37631934197630235,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_Int,mregDC_LAMP3,-0.3769138078224542,Monocyte,DC,between,DC ↔ Monocyte
+Mac_SPP1,Mono_CD16,-0.42100650405686346,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,Mono_CD14,-0.4318951036659197,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1Bint,Mono_CD14_IL1B,-0.46042067795523417,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,Mono_CD14_THBS1,-0.48707214294456763,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,Mono_Int,-0.48993542769003307,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14,cDC1_CLEC9A,-0.5059397495835369,Monocyte,DC,between,DC ↔ Monocyte
+Mac_SPP1,Mono_CD14_THBS1,-0.5063961289825317,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_SPP1,Mono_CD14_IL1B,-0.5066522188048314,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mast,Mono_CD14,-0.5390588608829479,,Monocyte,unassigned,
+Mac_IL1Bint,Mono_CD14,-0.5410904235891687,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,Mono_CD14_ID1,-0.5488572640406351,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_SPP1,Mono_CD14_ID1,-0.5499127526295128,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_TIL,cDC2_CD33,-0.5671680795450147,Monocyte,DC,between,DC ↔ Monocyte
+Mac_IL1Bint,Mono_CD14_THBS1,-0.583513824271227,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14,mregDC_LAMP3,-0.6047331779172733,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14,cDC2_CD1C,-0.6106054972446291,Monocyte,DC,between,DC ↔ Monocyte
+Mac_CXCL9,Mono_CD14,-0.6124508929494913,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+DC_pDC,Mono_CD14,-0.617426522330259,,Monocyte,unassigned,
+Mac_IL1Bint,Mono_CD14_ID1,-0.6386123355622132,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_SPP1,cDC2_CD33,-0.6551611494679138,Macrophage,DC,between,DC ↔ Macrophage
+cDC1_CLEC9A,cDC2_CD33,-0.6827473080648551,DC,DC,within,DC
+Mono_CD14_IL1B,cDC2_CD1C,-0.7193049405032982,Monocyte,DC,between,DC ↔ Monocyte
+Mast,Mono_CD14_IL1B,-0.7397865155457614,,Monocyte,unassigned,
+cDC2_CD1C,cDC2_CD33,-0.751815478172762,DC,DC,within,DC
+Mac_IL1Bint,cDC2_CD33,-0.7566520843225358,Macrophage,DC,between,DC ↔ Macrophage
+Mono_CD14_IL1B,cDC1_CLEC9A,-0.7636138756526912,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_IL1B,mregDC_LAMP3,-0.7917039331649481,Monocyte,DC,between,DC ↔ Monocyte
+DC_pDC,Mono_CD14_IL1B,-0.7957153995981567,,Monocyte,unassigned,
+Mac_CXCL9,Mono_CD14_IL1B,-0.8018216386570528,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14_THBS1,cDC1_CLEC9A,-0.8119472943574233,Monocyte,DC,between,DC ↔ Monocyte
+DC_pDC,cDC2_CD33,-0.8447723220617509,,DC,unassigned,
+Mono_CD14_THBS1,cDC2_CD1C,-0.8544772904868225,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_ID1,cDC2_CD1C,-0.8657998427250051,Monocyte,DC,between,DC ↔ Monocyte
+cDC2_CD33,mregDC_LAMP3,-0.865932226817003,DC,DC,within,DC
+Mac_CXCL9,cDC2_CD33,-0.8674912752784345,Macrophage,DC,between,DC ↔ Macrophage
+Mast,cDC2_CD33,-0.8699367310882825,,DC,unassigned,
+Mast,Mono_CD14_THBS1,-0.8740351408061047,,Monocyte,unassigned,
+Mono_CD14_ID1,cDC1_CLEC9A,-0.8811290645245236,Monocyte,DC,between,DC ↔ Monocyte
+Mono_CD14_THBS1,mregDC_LAMP3,-0.9107555680883541,Monocyte,DC,between,DC ↔ Monocyte
+DC_pDC,Mono_CD14_THBS1,-0.9127970861162563,,Monocyte,unassigned,
+Mac_CXCL9,Mono_CD14_THBS1,-0.9264157821076525,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mac_IL1B,cDC2_CD33,-0.9306650935019894,Macrophage,DC,between,DC ↔ Macrophage
+Mast,Mono_CD14_ID1,-0.9452229504952803,,Monocyte,unassigned,
+Mac_CXCL9,Mono_CD14_ID1,-0.9490123364318487,Macrophage,Monocyte,between,Macrophage ↔ Monocyte
+Mono_CD14_ID1,mregDC_LAMP3,-0.9537639937595824,Monocyte,DC,between,DC ↔ Monocyte
+DC_pDC,Mono_CD14_ID1,-0.9627086465684168,,Monocyte,unassigned,

@@ -4,3 +4,5 @@
 /gsea_gene_set
 /hnc_data
 /.claude
+/hnc_consensus_outputs_k4-20/local_run/cnmf_tmp
+/hnc_consensus_outputs_k4-20/local_run/filtered_data/local_run_hvg_union.h5ad

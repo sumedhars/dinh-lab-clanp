@@ -1,0 +1,4 @@
+family,n_pairs,median_within_R,mean_within_R,min_within_R,max_within_R
+Macrophage,6,0.852,0.847,0.719,0.917
+Monocyte,21,0.273,0.309,-0.309,0.959
+DC,6,0.12,0.084,-0.866,0.955
